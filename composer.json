@@ -1,5 +1,5 @@
 {
-    "name": "luciusdigital/openlucius-stream",
+    "name": "lucius-digital/openlucius-stream",
     "type": "openlucius-stream",
     "description": "Node.js / socket io implementation for realtimeness in OpenLucius, a Drupal distribution.",
     "license": "GPL-2.0-or-later",
